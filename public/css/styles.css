@@ -1,0 +1,73 @@
+body {
+    background: linear-gradient(to right, #dda7fe, #f1ccfc);
+    /* background-image: url('../Images/Raps1.jpg');
+    background-repeat: no-repeat; */
+    /* background-attachment: fixed;
+    background-size: cover; */
+    font-family: 'Cinzel', serif;
+    text-align: center;
+    color: #b8428f;
+    margin: 0;
+}
+
+.main-container, .game-container {
+    padding-top: 60px;
+}
+
+.game-container {
+    padding-bottom: 50px;
+}
+
+h1 {
+    padding: 0 0 20px 0;
+}
+
+h2 {
+    padding: 0 0 20px 0;
+}
+
+h3 {
+    padding: 0 0 20px 0;
+}
+
+p {
+ font-size: 1.5rem;
+ word-wrap: break-word;
+}
+
+button {
+    padding: 20px;
+}
+
+.btn {
+    background-color: #efc977;
+    color: #b8428f;
+}
+
+.intro-square-img {
+    margin: 0 auto;
+    display: block;
+    padding: 20px 0;
+    
+}
+
+.msg-area {
+    padding: 25px 25px 0 25px;
+}
+
+.guessBox{
+    margin: 50px;
+}
+
+footer {
+    padding: 30px 0 10px;
+}
+
+
+
+/* input[type=number]::-webkit-inner-spin-button, 
+input[type=number]::-webkit-outer-spin-button { 
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none; 
+} */
